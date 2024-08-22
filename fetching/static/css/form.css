@@ -1,0 +1,53 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+.box{
+    width: 60%;
+    height: 20px;
+    
+    border: none;
+    padding: 10px;
+    background-color: bisque;
+    border-radius: 10px;
+}
+form{
+    margin-left: 30%;
+}
+.comment{
+    width: 60%;
+    border: none;
+    border-radius: 10px;
+}
+html{
+    background-image: url(../Image/b93e17dc914296a45d50e29e2e898661.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+.head{
+    font-family: cursive;
+    color: rgb(0, 17, 255);
+    text-shadow: 2px 3px black;
+}   
+#accountlogin{
+    color:yellow;
+    text-shadow: 2px 3px 5px black;
+}
+.submit{
+    height: 30px;
+    width: 10%;
+    padding: 10px;
+    border-radius: 10px;
+    border: 10px;
+    background-color: blue;
+    color: yellow;
+    text-shadow: 2px 3px black;
+}
+.option{
+    font-family: cursive;
+    color: rgb(200, 255, 0);
+    text-shadow: 2px 3px black;
+}
